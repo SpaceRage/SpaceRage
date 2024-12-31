@@ -1,6 +1,6 @@
 # Welcome!
 
-I’m a software engineer and robotics researcher with a focus on full-stack development, autonomous systems, and computer vision.
+I’m a software engineer and robotics researcher with a focus on full-stack development, autonomous systems, computer vision, and space.
 
 - 💻 Programming: Skilled in frontend and backend development, including TypeScript, Node, Python, Java, C/C++, ROS, Remix, and modern web frameworks like React and Next.js.
   - _also well versed in relational DB management and infrastructure operations_
