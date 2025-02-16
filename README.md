@@ -7,6 +7,7 @@ I’m a software engineer and robotics researcher with a focus on full-stack dev
 - 🤖 Robotics: Specializing in autonomy, machine learning, and perception for intelligent systems.
 - 🚀 Projects: Passionate about building scalable software solutions and advancing robotics + space tech and research.
   - **_also helping to build, code, and launch a [satellite](https://horizonsat.org/)! 🛰️_**
+- 🎹 Music Production: Experimenting around in FL Studio to make beats!
 
 ### Currently...
 
