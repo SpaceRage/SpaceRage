@@ -11,7 +11,6 @@ I’m a software engineer and robotics researcher with a focus on full-stack dev
 
 ### Currently...
 
-- Applying for 2025 internships/co-ops
+- Working on a startup - more details in the future
 - Working on a multitude of side projects
 - Updating GitHub (not the best at sharing progress)
-- Developing a venture - specifically the tech half
