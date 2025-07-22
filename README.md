@@ -11,6 +11,7 @@ I’m a software engineer and robotics researcher with a focus on full-stack dev
 
 ### Currently...
 
-- Working on a startup - more details in the future
+- Working on a startup: **Beatleaf** _- the next home for centralized, asynchronous collaborative music production!_
+  - https://beatleaf.io/
 - Working on a multitude of side projects
 - Updating GitHub (not the best at sharing progress)
